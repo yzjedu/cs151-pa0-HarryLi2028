@@ -49,6 +49,6 @@
     - **YES-**
 
 ### Comments on the grading
-- There is no client satisfaction document
+- There is no client satisfaction document. No client satisfaction is the reason for R
 - Address all the NO's 
-### Grade: N
+### Grade: R
